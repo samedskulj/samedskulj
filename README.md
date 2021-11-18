@@ -1,6 +1,8 @@
 
 <h2 align="center">Hello there, My name is Škulj Samed <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"></h2>
-
+<br/>
+<h1 align="center">www.samedskulj.com</h1>
+<br/>
 <div align="center">
 <a target="_blank" href="https://www.linkedin.com/in/samed-%C5%A1kulj-6432051b7/">
 <img src="https://img.shields.io/badge/-samedskulj-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/samed-%C5%A1kulj-6432051b7/" alt="Linkedin Badge">
