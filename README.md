@@ -38,12 +38,17 @@ const samedskulj = {
     },
 };
 ```
-### 💻 My most used languages:
 
+<div>
+<h2>💻 My most used languages:</h2>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samedskulj&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+    <h2>📖 My Github stats</h2>
+  ![Samed's GitHub stats](https://github-readme-stats.vercel.app/api?username=samedskulj&count_private=true)  
+</div>
 
-### 📖 My Github stats
 
-![Samed's GitHub stats](https://github-readme-stats.vercel.app/api?username=samedskulj&count_private=true)
+
+
+
 
 
