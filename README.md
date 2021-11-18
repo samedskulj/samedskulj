@@ -32,7 +32,7 @@ const samedskulj = {
             css: ["material ui", "bootstrap", "scss"]
         },
         backEnd: {
-            js: ["node", "express", "asp net mvc", "asp net core"],
+            lang: ["node", "express", "asp net mvc", "asp net core"],
         },
         databases: ["mongodb", "sql server"],
         misc: ["Firebase", "Git", "Git Bash"]
