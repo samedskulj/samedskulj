@@ -1,5 +1,5 @@
 
-<h2>नमस्ते Hello there, My name is Škulj Samed <img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" width="50"></h2>
+<h2 align="center">Hello there, My name is Škulj Samed <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"></h2>
 
 <div align="center">
 <a target="_blank" href="https://www.linkedin.com/in/samed-%C5%A1kulj-6432051b7/">
