@@ -4,7 +4,7 @@
 <h3 align="center">My portfolio page</h3>
 <h1 align="center">www.samedskulj.com</h1>
 <br/>
-# You can check me out by clicking on the links below!
+<h3 align="center">Contact me using links below</h3>
 <div align="center">
 <a target="_blank" href="https://www.linkedin.com/in/samed-%C5%A1kulj-6432051b7/">
 <img src="https://img.shields.io/badge/-samedskulj-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/samed-%C5%A1kulj-6432051b7/" alt="Linkedin Badge">
