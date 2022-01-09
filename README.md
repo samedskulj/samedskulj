@@ -30,7 +30,7 @@ const samedskulj = {
         frontEnd: {
             framework: ["React.js", "Next.js"],
             css: ["material ui", "bootstrap", "scss"],
-            tech: ["html", "css", "javascript"]
+            basic: ["html", "css"]
         },
         backEnd: {
             lang: ["node", "express", "asp net mvc", "asp net core"],
