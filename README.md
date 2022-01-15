@@ -29,7 +29,7 @@ const samedskulj = {
     technologies: {
         frontEnd: {
             framework: ["React.js", "Next.js"],
-            css: ["material ui", "bootstrap", "scss"],
+            css: ["material ui", "bootstrap", "scss", "tailwindcss"],
             basic: ["html", "css"]
         },
         backEnd: {
