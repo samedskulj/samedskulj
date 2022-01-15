@@ -35,6 +35,10 @@ const samedskulj = {
         backEnd: {
             lang: ["node", "express", "asp net mvc", "asp net core"],
         },
+        cms: {
+            traditional: ["kentico12"]
+            
+        }
         databases: ["mongodb", "sql server"],
         misc: ["Firebase", "Git", "Git Bash"]
     },
