@@ -36,7 +36,7 @@ const samedskulj = {
             lang: ["node", "express", "asp net mvc", "asp net core"],
         },
         cms: {
-            traditional: ["kentico12"]
+            traditional: ["kentico12"],
             headless: ["contentful", "oraclecms"]
         }
         databases: ["mongodb", "sql server"],
