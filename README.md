@@ -33,7 +33,7 @@ const samedskulj = {
             basic: ["html", "css"]
         },
         backEnd: {
-            lang: ["node", "express", "asp net mvc", "asp net core"],
+            lang: ["node", "express.js", "asp net mvc", "asp net core"],
         },
         cms: {
             traditional: ["kentico12"],
