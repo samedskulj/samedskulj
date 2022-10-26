@@ -39,8 +39,8 @@ const samedskulj = {
             traditional: ["kentico12"],
             headless: ["contentful", "strapicms"]
         },
-        databases: ["mongodb", "sql server"],
-        misc: ["Firebase", "Git", "Git Bash"]
+        databases: ["mongodb", "sql server", "postgresql"],
+        misc: ["Firebase", "Git"]
     },
 };
 ```
