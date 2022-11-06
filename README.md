@@ -27,12 +27,12 @@ const samedskulj = {
     languages: ["JavaScript", "C++", "C#"],
     interestedIn: ["web dev", "tech", "video games", "photography", " ui/ux design"],
     technologies: {
-        frontEnd: {
+        frontend: {
             framework: ["React.js", "Next.js"],
             css: ["material ui", "bootstrap", "scss", "tailwindcss"],
             basic: ["html", "css"]
         },
-        backEnd: {
+        backend: {
             lang: ["node.js", "express.js", "nest.js", "asp net mvc", "asp net core"],
             services: ["prisma", "mongoose"]
         },
@@ -41,7 +41,7 @@ const samedskulj = {
             headless: ["contentful", "strapicms"]
         },
         databases: ["mongodb", "sql server", "postgresql"],
-        misc: ["Firebase", "Git"]
+        misc: ["firebase", "git"]
     },
 };
 ```
