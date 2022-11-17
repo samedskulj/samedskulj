@@ -1,5 +1,5 @@
 
-<h2 align="center">Hello everyone, My name is Škulj Samed <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"></h2>
+<h2 align="center">Hello everyone, my name is Škulj Samed <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"></h2>
 <br/>
 <h3 align="center">My portfolio page</h3>
 <h1 align="center">www.samedskulj.com</h1>
