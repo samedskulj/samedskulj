@@ -25,7 +25,7 @@
 ```javascript
 const samedskulj = {
     languages: ["JavaScript", "C++", "C#"],
-    interestedIn: ["web dev", "tech", "video games", "photography", " ui/ux design"],
+    interestedIn: ["web dev", "tech", "video games", "photography", " ui/ux design", "youtube"],
     technologies: {
         frontend: {
             framework: ["React.js", "Next.js"],
