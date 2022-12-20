@@ -38,7 +38,7 @@ const samedskulj = {
         },
         cms: {
             traditional: ["kentico12"],
-            headless: ["contentful", "strapicms"]
+            headless: ["contentful", "strapicms", "content"]
         },
         databases: ["mongodb", "sql server", "postgresql"],
         misc: ["firebase", "git"]
