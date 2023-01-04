@@ -37,7 +37,6 @@ const samedskulj = {
             services: ["prisma", "mongoose"]
         },
         cms: {
-            traditional: ["kentico12"],
             headless: ["contentful", "strapicms", "content"]
         },
         databases: ["mongodb", "sql server", "postgresql"],
