@@ -1,9 +1,9 @@
 
 <h2 align="center">Hello everybody, my name is Škulj Samed <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"></h2>
-<br/>
+<hr>
 <h3 align="center">My portfolio page</h3>
 <h1 align="center">www.samedskulj.com</h1>
-<br/>
+<hr>
 <h3 align="center">Contact me using links below</h3>
 <div align="center">
 <a target="_blank" href="https://www.linkedin.com/in/samed-%C5%A1kulj-6432051b7/">
