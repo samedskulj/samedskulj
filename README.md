@@ -20,7 +20,7 @@
 </a>
 <br>
 </div>
-<h3 align="center">2023 Goals:</h3>
+<h3>2023 Goals:</h3>
 <ul>
    <li>Learning Rust</li>
    <li>Starting YouTube Channel</li>
