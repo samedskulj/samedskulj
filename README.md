@@ -18,8 +18,8 @@
 <a target="_blank" href="https://www.behance.net/samedskulj">
 <img src="https://img.shields.io/badge/-samedskulj-141414?style=for-the-badge&logo=Behance&logoColor=white&link=https://behance.net/samedskulj" alt="Behance Badge">
 </a>
-<br>
 </div>
+<br />
 <h3>2023 Goals:</h3>
 <ul>
    <li>Learning Rust</li>
@@ -27,8 +27,7 @@
    <li>Making a real-world project inside Rust</li>
    <li>Recreate Portfolio Website with new technologies and design</li>
 </ul>
-<br/>
-
+<br />
 ```javascript
 const samedskulj = {
     languages: ["JavaScript", "TypeScript", "C#"],
