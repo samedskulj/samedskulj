@@ -20,6 +20,13 @@
 </a>
 <br>
 </div>
+<h4 align="center">2023 Goals:</h4>
+<ul>
+   <li>Learning Rust</li>
+   <li>Starting YouTube Channel</li>
+    <li>Making a real-world project inside Rust</li>
+    <li>Recreate Portfolio Website with new technologies and design</li>
+</ul>
 <br/>
 
 ```javascript
