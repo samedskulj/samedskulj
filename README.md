@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello everyone, my name is Škulj Samed <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"></h2>
 <hr>
-<h3 align="center">My portfolio page</h3>
+<h3 align="center">My portfolio</h3>
 <h1 align="center" style"text-underline:none;">www.samedskulj.com</h1>
 <hr>
 <h3 align="center">Contact me using links below</h3>
