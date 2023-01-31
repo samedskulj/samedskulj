@@ -35,7 +35,7 @@ const samedskulj = {
     interestedIn: ["web dev", "tech", "video games", "photography", " ui/ux design", "youtube"],
     technologies: {
         frontend: {
-            framework: ["React.js", "Next.js"],
+            framework: ["react.js", "Next.js"],
             css: ["material ui", "bootstrap", "scss", "tailwindcss"],
             basic: ["html", "css"]
         },
