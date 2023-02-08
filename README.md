@@ -45,7 +45,7 @@ const samedskulj = {
             services: ["prisma.io", "mongoose"]
         },
         cms: {
-            headless: ["strapicms", "content"]
+            headless: ["strapicms"]
         },
         databases: ["mongodb", "sql server", "postgresql"],
         misc: ["firebase", "git"]
