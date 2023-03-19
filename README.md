@@ -26,7 +26,7 @@
    <li>Starting YouTube Channel - X</li>
    <li>Making a real-world project inside Rust</li>
    <li>Recreate Portfolio Website with new technologies and design</li>
-   <li>Learning Unity and making a simple 2D game</li>
+   <li>Learning Unity and making a simple 2D game - X</li>
 </ul>
 <hr>
 
