@@ -21,10 +21,9 @@
 <hr>
 <h3>2023 Goals:</h3>
 <ul>
-   <li>Learning Rust Programming Language</li>
+   <li>Learning Rust Programming Language - X</li>
    <li>Starting YouTube Channel - X</li>
-   <li>Making a real-world project inside Rust</li>
-   <li>Recreate Portfolio Website with new technologies and design</li>
+   <li>Recreate Portfolio Website with new technologies and design - X</li>
    <li>Learning Unity and making a simple 2D game - X</li>
 </ul>
 <hr>
