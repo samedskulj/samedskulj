@@ -21,7 +21,7 @@
 <hr>
 <h3>2023 Goals:</h3>
 <ul>
-   <li>Learning Rust Programming Language - X</li>
+   <li>Learning The Basics of Rust Programming Language - X</li>
    <li>Starting YouTube Channel - X</li>
    <li>Recreate Portfolio Website with new technologies and design - X</li>
    <li>Learning Unity and making a simple 2D game - X</li>
@@ -30,7 +30,7 @@
 
 ```javascript
 const samedskulj = {
-    languages: ["JavaScript", "TypeScript", "C#", "Rust"],
+    languages: ["JavaScript", "TypeScript", "Go"],
     interestedIn: ["web dev", "tech", "video games", "photography", " ui/ux design", "youtube"],
     technologies: {
         frontend: {
@@ -39,8 +39,8 @@ const samedskulj = {
             basic: ["html", "css"]
         },
         backend: {
-            lang: ["node.js", "c#"],
-            frameworks: ["express.js", "nest.js", "asp net mvc", "asp net core"],
+            lang: ["node.js", "Go"],
+            frameworks: ["express.js", "nest.js"],
             orm: ["prisma.io", "mongoose"]
         },
         cms: {
