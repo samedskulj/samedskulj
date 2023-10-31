@@ -39,8 +39,7 @@ const samedskulj = {
             basic: ["html", "css"]
         },
         backend: {
-            lang: ["node.js", ".NET Core"],
-            frameworks: ["express.js", "nest.js"],
+            frameworks: ["express.js", "nest.js", ".NET Core"],
             orm: ["prisma.io"]
         },
         cms: {
