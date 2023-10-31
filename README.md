@@ -30,7 +30,7 @@
 
 ```javascript
 const samedskulj = {
-    languages: ["JavaScript", "TypeScript", "Go"],
+    languages: ["JavaScript", "TypeScript", "Go", "C#"],
     interestedIn: ["web dev", "tech", "video games", "photography", " ui/ux design", "youtube"],
     technologies: {
         frontend: {
@@ -39,9 +39,9 @@ const samedskulj = {
             basic: ["html", "css"]
         },
         backend: {
-            lang: ["node.js", "Go"],
+            lang: ["node.js", ".NET Core"],
             frameworks: ["express.js", "nest.js"],
-            orm: ["prisma.io", "mongoose"]
+            orm: ["prisma.io"]
         },
         cms: {
             headless: ["strapicms"]
