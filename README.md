@@ -39,8 +39,8 @@ const samedskulj = {
             css: ["material ui", "bootstrap", "scss", "tailwindcss"]
         },
         backend: {
-            frameworks: ["express.js", "nest.js", ".NET Core"],
-            orm: ["prisma.io"]
+            frameworks: ["express.js", "nest.js"],
+            orm: ["prisma"]
         },
         cms: {
             headless: ["strapicms", "contentful"]
