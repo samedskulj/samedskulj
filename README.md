@@ -30,20 +30,20 @@
 
 ```javascript
 const samedskulj = {
-    languages: ["JavaScript", "TypeScript", "Go", "C#"],
-    interestedIn: ["web dev", "tech", "video games", "photography", " ui/ux design", "youtube"],
+    languages: ["JavaScript", "TypeScript", "Go"],
+    interestedIn: ["web dev", "tech", "video games", "photography", " ui/ux design", "youtube"]
     technologies: {
         frontend: {
+            basic: ["html", "css"],
             framework: ["react.js", "next.js"],
-            css: ["material ui", "bootstrap", "scss", "tailwindcss"],
-            basic: ["html", "css"]
+            css: ["material ui", "bootstrap", "scss", "tailwindcss"]
         },
         backend: {
             frameworks: ["express.js", "nest.js", ".NET Core"],
             orm: ["prisma.io"]
         },
         cms: {
-            headless: ["strapicms"]
+            headless: ["strapicms", "contentful"]
         },
         databases: ["mongodb", "sql server", "postgresql"],
         misc: ["firebase", "git"]
