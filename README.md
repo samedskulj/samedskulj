@@ -19,12 +19,9 @@
 </a>
 </div>
 <hr>
-<h3>2023 Goals:</h3>
+<h3>2024 Goals:</h3>
 <ul>
-   <li>Learning The Basics of Rust Programming Language - X</li>
-   <li>Starting YouTube Channel - X</li>
-   <li>Recreate Portfolio Website with new technologies and design - X</li>
-   <li>Learning Unity and making a simple 2D game - X</li>
+   <li>Get 1000 subscribers on YouTube by teaching TypeScript/JavaScript/HTML/CSS</li>
 </ul>
 <hr>
 
