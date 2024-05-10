@@ -19,12 +19,6 @@
 </a>
 </div>
 <hr>
-<h3>2024 Goals:</h3>
-<ul>
-   <li>Get 1000 subscribers on YouTube by teaching TypeScript/JavaScript/HTML/CSS</li>
-</ul>
-<hr>
-
 ```javascript
 const samedskulj = {
     languages: ["JavaScript", "TypeScript", "Go"],
