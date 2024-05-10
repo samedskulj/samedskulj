@@ -19,6 +19,7 @@
 </a>
 </div>
 <hr>
+    
 ```javascript
 const samedskulj = {
     languages: ["JavaScript", "TypeScript", "Go"],
