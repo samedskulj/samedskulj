@@ -8,14 +8,11 @@
 <a target="_blank" href="https://www.linkedin.com/in/samed-%C5%A1kulj-6432051b7/">
 <img src="https://img.shields.io/badge/-samedskulj-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/samed-%C5%A1kulj-6432051b7/" alt="Linkedin Badge">
 </a>
-<a target="_blank" href="https://twitter.com/Samedkulj1">
+<a target="_blank" href="https://twitter.com/dev_samed">
 <img src="https://img.shields.io/badge/samedskulj-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Samedkulj1" alt="Twitter Badge">
 </a>
 <a target="_blank" href="https://www.instagram.com/sameds11/">
 <img src="https://img.shields.io/badge/-samedskulj-E1306C?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/sameds11/" alt="Instagram Badge">
-</a>
-<a target="_blank" href="https://www.behance.net/samedskulj">
-<img src="https://img.shields.io/badge/-samedskulj-141414?style=for-the-badge&logo=Behance&logoColor=white&link=https://behance.net/samedskulj" alt="Behance Badge">
 </a>
 </div>
 <hr>
