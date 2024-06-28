@@ -19,7 +19,7 @@
     
 ```javascript
 const samedskulj = {
-    languages: ["JavaScript", "TypeScript", "Go"],
+    languages: ["JavaScript", "TypeScript"],
     interestedIn: ["web dev", "tech", "video games", "photography", " ui/ux design", "youtube"],
     technologies: {
         frontend: {
@@ -35,7 +35,7 @@ const samedskulj = {
             headless: ["strapicms", "contentful"]
         },
         databases: ["mongodb", "sql server", "postgresql"],
-        misc: ["firebase", "git"]
+        misc: ["firebase", "git", "supabase"]
     },
 };
 ```
