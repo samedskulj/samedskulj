@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello everyone, my name is Škulj Samed 
 <h3 align="center">Portfolio</h3>
-<h1 align="center" style"text-underline:none;">www.samedskulj.com</h1>
+<h1 align="center" style"text-underline:none;">www.samedskulj.dev</h1>
 <hr>
 <h3 align="center">Contact me using links below</h3>
 <div align="center">
