@@ -1,8 +1,5 @@
 
-<h2 align="center">Hello everyone, my name is Škulj Samed 
-<h3 align="center">Portfolio</h3>
 <h1 align="center" style"text-underline:none;">www.samedskulj.dev</h1>
-<hr>
 <h3 align="center">Contact me using links below</h3>
 <div align="center">
 <a target="_blank" href="https://www.linkedin.com/in/samed-%C5%A1kulj-6432051b7/">
@@ -39,7 +36,6 @@ const samedskulj = {
     },
 };
 ```
-
 
 ### 💻 My most used languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samedskulj&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
