@@ -16,7 +16,7 @@
     
 ```javascript
 const samedskulj = {
-    languages: ["JavaScript", "TypeScript", "Python"],
+    languages: ["JavaScript", "TypeScript", "Go"],
     interestedIn: ["web dev", "tech", "video games", "photography", " ui/ux design", "youtube"],
     technologies: {
         frontend: {
