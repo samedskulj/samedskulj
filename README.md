@@ -16,7 +16,7 @@
     
 ```javascript
 const samedskulj = {
-    languages: ["JavaScript", "TypeScript", "Go"],
+    languages: ["JavaScript", "TypeScript"],
     interestedIn: ["web dev", "tech", "video games", "photography", " ui/ux design", "youtube"],
     technologies: {
         frontend: {
@@ -25,7 +25,7 @@ const samedskulj = {
             css: ["material ui", "bootstrap", "scss", "tailwindcss"]
         },
         backend: {
-            frameworks: ["express.js", "nest.js"],
+            frameworks: ["node.js","express.js", "nest.js"],
             orm: ["prisma"]
         },
         cms: {
