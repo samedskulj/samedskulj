@@ -1,6 +1,4 @@
 
-<h1 align="center" style"text-underline:none;">www.samedskulj.dev</h1>
-<h3 align="center">Contact me using links below</h3>
 <div align="center">
 <a target="_blank" href="https://www.linkedin.com/in/samed-%C5%A1kulj-6432051b7/">
 <img src="https://img.shields.io/badge/-samedskulj-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/samed-%C5%A1kulj-6432051b7/" alt="Linkedin Badge">
